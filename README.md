@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/29405483/221152051-24647828-d8ff-4cd3-b7a3-a3aeaf31929a.png" />
 </p>
 
-# Hi there, I'm Sipun Ku Mahanta 👋
+# Hi there, I'm [Sipun Ku Mahanta](https://darkstar085.github.io/) 👋
 
-I'm a software developer and maintainer of several popular custom ROMs including SuperiorOS, dotOS, PixysOS, and ProjectSakura. I have extensive experience in developing custom ROMs and contributing to open source projects.
+I'm a software developer and maintainer of several popular custom ROMs including SuperiorOS, Project Infinity X, dotOS, PixysOS, and ProjectSakura. I have extensive experience in developing custom ROMs and contributing to open source projects.
 
 ### Technologies and Tools:
 
@@ -18,12 +18,12 @@ I have expertise in the following technologies and tools:
 
 ### Devices I Use:
 
-- Xiaomi Redmi Note 5 Pro (Whyred)
-- Oneplus Nord (Avicii)
+- Samsung S23 Ultra (dm3q)
 
 ### Projects I've Contributed To:
 
 - [SuperiorOS](https://github.com/SuperiorOS)
+- [Project Infinity X](https://github.com/ProjectInfinity-X)
 - [dotOS](https://github.com/dotOS)
 - [PixysOS](https://github.com/PixysOS)
 - [ProjectSakura](https://github.com/ProjectSakura)
