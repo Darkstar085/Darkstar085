@@ -5,16 +5,17 @@
 <h1 align="center">Hi there, I'm <a href="https://darkstar085.github.io/">Sipun Ku Mahanta</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=1000&center=true&vCenter=true&width=900&lines=Android+ROM+Developer;Open+Source+Enthusiast;Tech+Explorer;Always+Learning+New+Things&color=00F5FF" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Android+ROM+Developer;Open+Source+Enthusiast;Tech+Explorer;Always+Learning+New+Things&color=00F5FF" />
 </p>
 
----
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:3333ff,100:00ffcc&height=3"  width="100%"/> </p>
 
 ### 🧑‍💻 About Me
-I'm a software developer and maintainer of several popular custom ROMs including **SuperiorOS**, **Project Infinity X**, **dotOS**, **PixysOS**, and **ProjectSakura**.  
-I specialize in **Android development**, **custom ROM building**, and **open-source contributions**.
+- 🔭 Maintaining multiple **Android Custom ROMs**
+- ⚙️ Contributor to **SuperiorOS, Infinity X, dotOS, PixysOS, ProjectSakura**
+- 🧩 Focused on **AOSP, performance & automation**
+- 🐧 Linux power user
 
----
 
 ### 🧠 Technologies & Tools
 
@@ -24,7 +25,6 @@ I specialize in **Android development**, **custom ROM building**, and **open-sou
 - 🧾 Git & GitHub Collaboration  
 - 💻 Programming Languages — *C++, Bash, Python (basic)*  
 
----
 
 ### 📱 Devices I Use
 
@@ -36,7 +36,6 @@ I specialize in **Android development**, **custom ROM building**, and **open-sou
 - **Xiaomi Redmi Note 5 Pro** (*whyred*)  
 - **OnePlus Nord** (*avicii*)
 
----
 
 ### 🌍 Projects I've Contributed To
 
@@ -46,23 +45,13 @@ I specialize in **Android development**, **custom ROM building**, and **open-sou
 - [PixysOS](https://github.com/PixysOS)
 - [ProjectSakura](https://github.com/ProjectSakura)
 
----
 
-### 🎮 Hobbies & Interests
-
-- 🧑‍💻 Exploring new technologies  
-- 🌐 Contributing to open source projects  
-- 🎮 Gaming & 🎬 Watching anime  
-
----
-
-### 📊 GitHub Stats
+### 📊 Activity Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darkstar085&theme=github_dark"/>
 </p>
 
----
 
 ### 🌐 Connect With Me
 
@@ -73,7 +62,6 @@ I specialize in **Android development**, **custom ROM building**, and **open-sou
   <a href="https://facebook.com/sipunku.mahanta"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
----
 
 ### 💖 Support My Work
 
@@ -82,7 +70,6 @@ I specialize in **Android development**, **custom ROM building**, and **open-sou
   <a href="https://drive.google.com/file/d/1RX_ZwIk43kJ3xl-vdNHuClS0qfVH_3hS"><img src="https://img.shields.io/badge/UPI-3DDC84?style=for-the-badge&logo=google-pay&logoColor=white" /></a>
 </p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Darkstar085&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
