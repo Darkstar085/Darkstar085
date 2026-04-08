@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm <a href="https://darkstar085.github.io/">Sipun Ku Mahanta</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=Android+ROM+Developer;Open+Source+Contributor;Linux+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=1000&center=true&vCenter=true&width=900&lines=Android+ROM+Developer;Open+Source+Enthusiast;Tech+Explorer;Always+Learning+New+Things&color=00F5FF" />
 </p>
 
 ---
