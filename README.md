@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/29405483/221152051-24647828-d8ff-4cd3-b7a3-a3aeaf31929a.png" width="550px" alt="Logo"/>
+  <img src="assets/header.svg" />
 </p>
 
 <h1 align="center">Hi there, I'm <a href="https://darkstar085.github.io/">Sipun Ku Mahanta</a> 👋</h1>
 
 <p align="center">
-  <strong>Android ROM Developer | Open Source Enthusiast | Tech Explorer</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=Android+ROM+Developer;Open+Source+Contributor;Linux+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -59,8 +59,7 @@ I specialize in **Android development**, **custom ROM building**, and **open-sou
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darkstar085&show_icons=true&theme=dark&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkstar085&layout=compact&theme=dark&hide_border=true" height="160px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darkstar085&theme=github_dark"/>
 </p>
 
 ---
@@ -69,7 +68,7 @@ I specialize in **Android development**, **custom ROM building**, and **open-sou
 
 <p align="center">
   <a href="https://t.me/darkstar085"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://x.com/Darkstar085"><img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/Darkstar085"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://instagram.com/Darkstar085"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://facebook.com/sipunku.mahanta"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
@@ -80,7 +79,7 @@ I specialize in **Android development**, **custom ROM building**, and **open-sou
 
 <p align="center">
   <a href="https://www.paypal.me/Sipun"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1RX_ZwIk43kJ3xl-vdNHuClS0qfVH_3hS"><img src="https://img.shields.io/badge/UPI%20Payment-3DDC84?style=for-the-badge&logo=google-pay&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1RX_ZwIk43kJ3xl-vdNHuClS0qfVH_3hS"><img src="https://img.shields.io/badge/UPI-3DDC84?style=for-the-badge&logo=google-pay&logoColor=white" /></a>
 </p>
 
 ---

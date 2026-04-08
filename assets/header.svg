@@ -1,0 +1,24 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="coloredBlur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Glow pulse -->
+  <circle cx="400" cy="100" r="60" fill="none" stroke="#00F5FF" stroke-width="2">
+    <animate attributeName="r" values="50;65;50" dur="2s" repeatCount="indefinite"></animate>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"></animate>
+  </circle>
+
+  <!-- Title -->
+  <text x="50%" y="55%" text-anchor="middle" fill="#00F5FF" font-size="32" font-family="monospace" filter="url(#glow)">
+    Darkstar085
+  </text>
+
+</svg>
